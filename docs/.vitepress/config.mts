@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Python for beginners",
   description: "Explore computing with Python",
-  base: '/python',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
