@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "f8d90cff39fb2acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5ad58068321965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6764a6b813e9c7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module1-introduction/why-learn-python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why-learn-python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afee81f2247731de",
+    "type": "split",
+    "children": [
+      {
+        "id": "09aaa8bfb9ed9087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80cd804b563c5bdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57629abdfb88cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "720ad1bf2bcb3adc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af862b22008f8484",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b8f81ea9419f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4be54ba6168290",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "module1-introduction/why-learn-python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for why-learn-python"
+            }
+          },
+          {
+            "id": "bee75905e450cc5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "module1-introduction/why-learn-python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from why-learn-python"
+            }
+          },
+          {
+            "id": "f1b00b756ecde35e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c749f4ccc592f04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "module1-introduction/why-learn-python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of why-learn-python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6764a6b813e9c7e7",
+  "lastOpenFiles": [
+    "index.md",
+    "introduction.md",
+    "module1-introduction/why-learn-python.md",
+    "module1-introduction/basics-of-computing.md",
+    "module1-introduction/hello-world.md",
+    "module2-basics/variables-and-data-types.md",
+    "notebooks.md",
+    "contents.md",
+    "module1-introduction/contents.md"
+  ]
+}

@@ -1,0 +1,50 @@
+---
+title: Why Learn Programming — and Why Python?
+---
+
+# Why Learn Programming — and Why Python?
+
+This short page answers two questions: why learn programming at all, and why we’re starting with Python.
+
+## 1) Why learn programming?
+
+- Become a problem solver: turn ideas into tools that help you and others.
+- Make your own things: small games, homework helpers, to‑do apps, or a class website.
+- Automate boring stuff: rename hundreds of files, sort photos, fetch scores automatically.
+- Think clearly: break big problems into small steps — a superpower for school and life.
+- Share with the world: publish a simple script or app and thousands can use it.
+
+Starter project ideas you’ll try soon
+
+- Number guessing game or flashcards quiz
+- Habit tracker in the terminal
+- Weather checker using a public API
+
+Read more: [Why learn programming?](https://potomac.edu/why-learn-programming/)
+
+## 2) Why choose Python?
+
+- Easy to read: fewer symbols, looks close to English.
+- Beginner‑friendly: great for first programs and quick experiments (REPL).
+- Powerful and popular: used for web apps, data science, AI/ML, automation, and more.
+- Batteries included: strong standard library to do a lot without extra installs.
+- Huge community: tons of tutorials, examples, and help when you’re stuck.
+- Free and open source: runs on Windows, macOS, and Linux.
+
+Everyday things powered by Python (examples)
+
+- Instagram (parts of the backend and tooling)
+- YouTube and Google (automation, internal tools, and services)
+- Dropbox (desktop client and backend components)
+- Spotify (data pipelines, services, and analysis)
+- Reddit, Pinterest, Quora (production web backends)
+- Blender and many games/tools use Python for scripting
+
+Read more:
+
+- [About Python - a byte of python](https://python.swaroopch.com/about_python.html)
+- [The Python Tutorial (first steps) — docs.python.org](https://docs.python.org/3/tutorial/introduction.html)
+- [Applications for Python — python.org (official list)](https://www.python.org/about/apps/)
+
+You’re set! Next up, we’ll install Python and VS Code and run your first program.
+

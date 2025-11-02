@@ -1,0 +1,114 @@
+---
+title: Getting Started — Hello, World!
+---
+
+# Getting Started — Hello, World!
+
+In this quick guide you’ll install the tools, write your first Python program, and run it. Choose the option that suits you.
+
+## Prerequisites
+
+- Install Python 3 (latest stable): https://www.python.org/downloads/
+- Check it works:
+
+```bash
+python --version     # on Windows (sometimes 'py -V')
+python3 --version    # on macOS/Linux
+```
+
+If you see a version like 3.x.x, you’re ready.
+
+---
+
+## Notes for Windows, macOS, and Linux
+
+- Windows
+	- Use Command Prompt or PowerShell. If `python` doesn’t work, try `py` (e.g., `py -V`, `py hello.py`).
+	- When installing Python, check “Add python.exe to PATH”.
+	- In VS Code’s terminal, you can choose your shell (PowerShell or Command Prompt).
+- macOS
+	- Use the Terminal app. Run with `python3` and install packages with `pip3`.
+	- If the installer is blocked, allow it in System Settings → Privacy & Security. Optional: `brew install python` if you use Homebrew.
+	- VS Code’s default shell is zsh; commands in this guide work the same.
+- Linux (Ubuntu/Fedora/Arch, etc.)
+	- Python 3 is often preinstalled. Use `python3` and `pip3`.
+	- Install or update via your package manager (`apt`, `dnf`, `pacman`).
+	- VS Code terminal uses your default shell (bash/zsh/fish).
+
+---
+
+## Option A: VS Code (recommended)
+
+1) Install VS Code: https://code.visualstudio.com/
+2) Open VS Code. Install the “Python” extension by Microsoft (search: Python).
+3) Create a folder for your code (e.g., Desktop/python-projects/hello-world).
+4) In VS Code, File → Open Folder… and open that folder.
+5) Create a new file named `hello.py` and add:
+
+```python
+print("Hello, world!")
+```
+
+6) Run it (pick one):
+	- Press the “Run Python File” ▶ button at the top right, or
+	- Open the terminal in VS Code (View → Terminal) and run:
+
+```bash
+python hello.py      # Windows (or 'py hello.py')
+python3 hello.py     # macOS/Linux
+```
+
+You should see: `Hello, world!`
+
+Tip: If VS Code can’t find Python, press Ctrl+Shift+P (Cmd+Shift+P on macOS) → “Python: Select Interpreter” and choose your Python 3 interpreter.
+
+---
+
+## Option B: IDLE (comes with Python)
+
+IDLE is a simple editor included with Python.
+
+1) Open IDLE (search your apps for “IDLE”).
+2) File → New File.
+3) Type the code below and save as `hello.py`:
+
+```python
+print("Hello, world!")
+```
+
+4) Run → Run Module (or press F5). You’ll see the output in the IDLE shell.
+
+---
+
+## Option C: Replit (in your browser)
+
+1) Go to https://replit.com/ and create a free account.
+2) Click “Create Repl” → choose “Python”.
+3) In `main.py`, type:
+
+```python
+print("Hello, world!")
+```
+
+4) Click “Run” to see the output on the right.
+
+---
+
+## Common issues (quick fixes)
+
+- “python not found” on Windows: try `py hello.py` or reinstall Python and check “Add python.exe to PATH” during setup.
+- On macOS/Linux, use `python3` instead of `python`.
+- VS Code still can’t run Python: use “Python: Select Interpreter” and pick the 3.x version.
+
+---
+
+## Make it yours
+
+Change the message and ask for a name.
+
+```python
+name = input("What is your name? ")
+print("Hello, " + name + "!")
+```
+
+Run it and type your name!
