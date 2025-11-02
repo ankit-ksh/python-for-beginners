@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "af862b22008f8484",
@@ -169,7 +169,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6764a6b813e9c7e7",
+  "active": "80cd804b563c5bdc",
   "lastOpenFiles": [
     "index.md",
     "introduction.md",
