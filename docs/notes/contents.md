@@ -5,9 +5,9 @@ title: Course Contents
 
 ## Module 1: Introduction
 
-- [Basics of Computing (computers, programs, inputs/outputs, files)](./module1-introduction/basics-of-computing.md)
-- [Why Learn Python?](./module1-introduction/why-learn-python.md)
-- [Getting Started — Hello, World!](./module1-introduction/hello-world.md)
+- [Basics of Computing (computers, programs, inputs/outputs, files)](./module1-introduction/1.basics-of-computing.md)
+- [Why Learn Python?](./module1-introduction/2.why-learn-python.md)
+- [Getting Started — Hello, World!](./module1-introduction/3.hello-world.md)
 
 ---
 

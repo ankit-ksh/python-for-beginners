@@ -1,11 +1,16 @@
 # Node modules
 node_modules/
 
+# Obsidian vault files
+docs/notes/.obsidian
+docs/notes/.trash/
+
+
 # VitePress build output
-.vitepress/dist/
+docs/.vitepress/dist/
 
 # VitePress cache
-.vitepress/cache/
+docs/.vitepress/cache/
 
 # Environment variables
 .env
