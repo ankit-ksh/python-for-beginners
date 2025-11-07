@@ -1,6 +1,8 @@
 # Node modules
 node_modules/
 
+.trash/
+
 # Obsidian vault files
 docs/notes/.obsidian
 docs/notes/.trash/
