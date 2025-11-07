@@ -4,24 +4,23 @@ layout: home
 
 hero:
   name: "Python for beginners"
-  tagline: Explore computing with Python
-  actions:
-    - theme: alt
-      text: Notes
-      link: /notes
-    - theme: alt
-      text: Code
-      link: /code
-    - theme: alt
-      text: Notebooks
-      link: /notebooks
+  tagline: A guide to exploring computing with Python
+  # actions:
+  #   - theme: brand
+  #     text: Notes
+  #     link: /notes
 
-# features:
-#   - title: Notes
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /code
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+features:
+  - title: Notes
+    details: A brief notes for Python
+    link: /notes
+  - title: Resources
+    details: Curated list of resources to learn Python
+    link: /resources/books
+  - title: Problems
+    details: A large collection of problems to practice Python
+    link: /problems
 #   - title: Feature C
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

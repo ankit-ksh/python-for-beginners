@@ -9,8 +9,19 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
   { text: 'Playground', link: '#playground' },
-  { text: 'Trinklet Playground', link: '#playground-experimental' },
-      { text: 'Notes', link: '/notes/'}
+  { text: 'Trinket Playground', link: '#playground-experimental' },
+  {text: 'Notes', link: '/notes/index.md' },
+  {text: 'Problems', link: '/problems/index.md' },
+  {text: 'Resources', items: [
+    { text: 'Books', link: '/resources/books.md' },
+    { text: 'Interactive Playgrounds', link: '/resources/interactive-playgrounds.md' },
+    { text: 'Articles & Guides', link: '/resources/articles-and-guides.md' },
+    { text: 'Videos', link: '/resources/videos.md' },
+    { text: 'Research Papers', link: '/resources/research-papers.md' },
+    { text: 'Tools', link: '/resources/tools.md' },
+    { text: 'Libraries', link: '/resources/libraries.md' },
+    { text: 'Projects', link: '/resources/python-projects.md' },
+  ]},
     ],
 
     sidebar: {
@@ -31,6 +42,16 @@ export default defineConfig({
         { text: 'Getting Started with Python', link: '/notes/module2-basics/1.getting-started-with-python.md' },
       ]
       }
+      ],
+      '/resources/': [
+        {text: 'Books', link: '/resources/books.md'},
+        {text: 'Interactive playgrounds', link: '/resources/interactive-playgrounds.md'},
+        {text: 'Articles & Guides', link: '/resources/articles-and-guides.md'},
+        {text: 'Videos', link: '/resources/videos.md'},
+        {text: 'Research papers', link: '/resources/research-papers.md'},
+        {text: 'Tools', link: '/resources/tools.md'},
+        {text: 'Libraries', link: '/resources/libraries.md'},
+        {text: 'Projects', link: '/resources/python-projects.md'},
       ]
     },
 
