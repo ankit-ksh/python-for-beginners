@@ -5,7 +5,7 @@ title: Videos
 # Videos
 
 - CS50’s Introduction to Programming with Python (CS50P)
-	- https://www.youtube.com/playlist?list=PLhQjrBD2T3815jAA4c8CIOiZ7gQY1D2-o
+	- https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 	- University‑level course, excellent explanations and problem sets.
 
 - MIT 6.0001 Introduction to Computer Science and Programming in Python
